@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rakesh Meel
 
-🚀 **Data Engineer | SCALA | Python | AWS | PostgreSQL | ETL | Analytics**
+🚀 **Data Engineer | SPARK - SCALA | PySpark |Python | AWS | PostgreSQL | ETL | DBA | Analytics**
 
 - 👀 I’m passionate about building scalable data pipelines and solving complex data problems  
 - 🌱 Currently working AWS and also exploring **Azure Databricks** and advanced data engineering practices  
@@ -11,7 +11,7 @@
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** Python, SQL  
+- **Languages:** Scala, Python, Postgres SQL, C#, VB.Net, Java    
 - **Data Engineering:** ETL Pipelines, Data Warehousing  
 - **Cloud:** AWS (S3, Athena, Lambda), Azure  
 - **Databases:** PostgreSQL  
